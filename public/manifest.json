@@ -1,0 +1,11 @@
+{
+  "name": "AI Interview",
+  "short_name": "Interview",
+  "description": "Voice-powered AI interviews",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#030712",
+  "background_color": "#030712",
+  "orientation": "portrait",
+  "scope": "/"
+}
