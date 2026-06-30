@@ -1,5 +1,7 @@
 # AI Interview App
 
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20my%20work-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/AndersBjarby)
+
 A mobile-first web application for conducting voice-based interviews using OpenAI's Realtime API, with automatic document generation from the conversation.
 
 ## Project Status
